@@ -9,7 +9,8 @@ img_path: /assets/img
 
 ![teste](2024-03-04-header.png)
 
-Olá! Me chamo Thiago Silveira e este é o primeiro post deste blog. Pretendo escrever aqui sobre análise de dados, data science, machine learning, desenvolvimento web e assuntos relacionados. Confesso que estou bem ansioso pelos próximos posts. Aquela sensação de frio na barriga de começar algo novo e desafiador. Bora?
+Olá! Me chamo Thiago Silveira e este é o primeiro post deste blog. Pretendo escrever aqui sobre análise de dados, data science, machine learning, desenvolvimento web e assuntos relacionados. Confesso que estou bem ansioso pelos próximos posts. Aquela sensação de frio na barriga... Bora?
+
 
 
 
