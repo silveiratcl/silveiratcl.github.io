@@ -18,7 +18,8 @@ title: Dive into Data # the main title
 
 tagline: >-
   Thiago Silveira, PhD.
-  Blogging about Data Analysis, Data Science and programing. # it will display as the sub-title
+  Blogging about Data Analysis, Data Science and Programming
+
 
 description: >- # used by seo meta and the atom feed
   Blog and information about Thiago Silveira, Data Scientist and Researrcher passioante
@@ -89,7 +90,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
