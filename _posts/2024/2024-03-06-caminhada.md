@@ -11,7 +11,7 @@ mermaid: true
 ![header](https://github.com/silveiratcl/images/blob/main/2024-03-06-header.png?raw=true)
 
 
-Dando os primeiros passos neste blog, gostaria de me apresentar e compartilhar um pouco da minha jornada. Meu nome é Thiago Silveira e sou biólogo de formação. Desde cedo, sempre nutri um profundo interesse por ciência e tecnologia. Antes de ingressar na graduação em Biologia, passei um ano cursando Processamento de Dados, onde vi um spoiler do que viriar a triljar no futuro.
+Dando os primeiros passos neste blog, gostaria de me apresentar e compartilhar um pouco da minha jornada. Meu nome é Thiago Silveira e sou biólogo de formação. Desde cedo, sempre nutri um profundo interesse por ciência e tecnologia. Antes de ingressar na graduação em Biologia, passei um ano cursando Processamento de Dados, onde vi um spoiler do que viriar a trilhar no futuro.
 
 Ao longo dos anos, tive o privilégio de percorrer um caminho acadêmico enriquecedor. Concluí minha graduação em Biologia e, posteriormente, obtive os títulos de mestrado e doutorado em Zoologia. Durante essa trajetória, dediquei-me principalmente ao estudo da ecologia aquática, explorando desde os riachos aos oceanos. Trabalhar como consultor ambiental também foi uma oportunidade valiosa que me permitiu aplicar meus conhecimentos no mercado de trabalho.
 
