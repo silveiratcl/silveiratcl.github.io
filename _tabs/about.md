@@ -13,4 +13,4 @@ order: 4
 
 [Linkedin](https://www.linkedin.com/in/thiagoclsilveira/)
 
-[Lattes](http://lattes.cnpq.br/5960267776845701)
+[Lattes](https://lattes.cnpq.br/5960267776845701)
