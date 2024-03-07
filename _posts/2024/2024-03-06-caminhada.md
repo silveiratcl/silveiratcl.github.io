@@ -56,6 +56,6 @@ Desde 2020, venho aprofundando meus conhecimentos em desenvolvimento web, com fo
 
 Daqui para frente, não consigo me imaginar fazendo outra coisa que não esteja relacionada à extração, limpeza, análise e interpretação de dados, construção de modelos, teste de hipóteses, criação de dashboards e uso de modelos Machine Learning.
 
-Estou entusiasmado com a oportunidade de explorar paralelos entre minha experiência na pesquisa acadêmica e o mundo do *Data Science* aplicado em produção. Espero que estas reflexões possam contribuir de alguma forma para o que pretendo compartilhar aqui.
+Estou entusiasmado com a oportunidade de explorar paralelos entre minha experiência na pesquisa acadêmica e o mundo do *Data Science* aplicado em produção. Espero que estas reflexões possam contribuir de alguma forma na caminhada de pessoas com caminhos similares ao meu.
 
 Dale!
