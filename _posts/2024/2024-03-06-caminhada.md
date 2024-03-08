@@ -8,7 +8,7 @@ mermaid: true
 ---
 
 
-![header](https://github.com/silveiratcl/images/blob/main/2024-03-06-header.png?raw=true)
+![header](https://github.com/silveiratcl/images/blob/main/2024-03-06-header.png?raw=true)_teste_
 
 
 Dando os primeiros passos neste blog, gostaria de me apresentar e compartilhar um pouco da minha jornada. Meu nome é Thiago Silveira e sou biólogo de formação. Desde cedo, sempre nutri um profundo interesse por ciência e tecnologia. Antes de ingressar na graduação em Biologia, passei um ano cursando Processamento de Dados, onde vi um spoiler do que viriar a trilhar no futuro.
