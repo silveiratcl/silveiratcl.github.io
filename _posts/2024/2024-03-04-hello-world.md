@@ -9,8 +9,8 @@ img_path: /assets/img
 
 ![teste](2024-03-04-header.png)
 
-1,2,3... testando... Olá! Me chamo Thiago Silveira e este é o primeiro post deste blog. Pretendo escrever aqui sobre análise de dados, data science, machine learning, desenvolvimento web e assuntos relacionados/aleatórios. Um dos motivos da criação deste blog foi o de compartilhar aqui minhas experiências e impressões ao longo da minha caminhada de aprendizados entre academia e o mercado de trabalho. Tentarei trazer algo mais que vai além das conclusões de análises estatísticas, desenvolvimento de sistemas....
-Batizei este blog como ***Dive into Data***, pois tem que mergulhar de cara mesmo.
+1,2,3... testando... Olá! Me chamo Thiago Silveira e este é o primeiro post deste blog. Pretendo escrever aqui sobre análise de dados, data science, machine learning, desenvolvimento web e assuntos relacionados/aleatórios. Um dos motivos da criação deste blog foi o de compartilhar aqui minhas experiências e impressões ao longo da minha caminhada de aprendizados entre academia e o mercado de trabalho. Tentarei trazer um algo mais que vá além das conclusões de análises estatísticas, desenvolvimento de sistemas....
+Batizei este blog como ***Dive into Data***, pois penso que tem que mergulhar de cara mesmo.
 
 Confesso que estou bem ansioso pelos próximos posts. Aquela sensação de frio na barriga... Bora mergulhar?
 
