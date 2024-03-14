@@ -3,13 +3,12 @@ title: Caminhada até aqui
 date: 2024-03-05 15:45:00 +/-TTTT
 categories: [curriculum, path, career]
 tags:  [path, career]
-img_path: /assets/img
 mermaid: true
+image:
+  path: /assets/img/2024-03-06-header.png
+  alt: Linus Nylund
+
 ---
-
-
-![header](https://github.com/silveiratcl/images/blob/main/2024-03-06-header.png?raw=true)
-
 
 Os primeiros passos sempre são os mais difíceis, mas vamos lá... Antes de mais nada quero me apresentar e compartilhar um pouco da minha jornada. Meu nome é Thiago Silveira, sou biólogo de formação. Desde cedo, sempre nutri um profundo interesse por ciência e tecnologia. Antes de ingressar na graduação em Biologia, passei um ano cursando Processamento de Dados, onde vi um spoiler do que iria trilhar no futuro.
 
@@ -37,8 +36,6 @@ Abaixo, apresento um gráfico que ilustra os principais marcos da minha formaç�
         PELD          : 2021, 1y
         Coral-Sol     : 2022, 3.5y
 ```
->Diagrama de Gantt gerado com [Mermaid](https://mermaid.js.org/)/ADS - Graduação Análise e Desenvolvimento de Sistemas*
-
 
 Olhando para trás, percebo que minha jornada sempre foi impulsionada pela **análise de dados**. Como disse uma vez o Tio Ed: "Sem dados, você é apenas mais uma pessoa com uma opinião" - uma citação que sempre fez muito sentido a cada problema que tento resolver.
 
