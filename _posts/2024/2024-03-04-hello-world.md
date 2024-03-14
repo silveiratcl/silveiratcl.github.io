@@ -4,7 +4,7 @@ date: 2024-03-05 15:45:00 +/-TTTT
 categories: [HELLO WORLD, HI]
 tags:  [hello world]     # TAG names should always be lowercase
 image:
-  path: /assets/img/2024-03-04-header.png
+  path: /assets/img/2024-03-04-header_m.png
 ---
 
 1,2,3... testando... Olá! Me chamo Thiago Silveira e este é o primeiro post deste blog. Pretendo escrever aqui sobre análise de dados, data science, machine learning, desenvolvimento web e assuntos relacionados/aleatórios. Um dos motivos da criação deste blog foi o de compartilhar aqui minhas experiências e impressões ao longo da minha caminhada de aprendizados entre academia e o mercado de trabalho. Tentarei trazer um algo que vá além das conclusões de análises estatísticas, desenvolvimento de sistemas....
