@@ -22,7 +22,7 @@ tagline: >-
 
 
 description: >- # used by seo meta and the atom feed
-  Blog and information about Thiago Silveira, Data Scientist and Researrcher passioante
+  Blog and information about Thiago Silveira, Data Scientist and Researcher passioante
   about data, data analysis and nature.
 
 # Fill in the protocol & hostname for your site.
@@ -70,7 +70,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
