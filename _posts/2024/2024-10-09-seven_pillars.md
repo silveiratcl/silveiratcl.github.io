@@ -40,7 +40,7 @@ Por fim, Residual nos lembra que, no fundo, a estatística é a ciência do erro
 
 Li este livro em meados de 2018 e reli alguns trechos no último ano. Neste intervalo de tempos tive contato com outros conceitos e metodologias, sendo assim, percebi que muitos dos conceitos que estão ali são melhor compreendidos com um pouco mais de bagagem. De qualqueer maneira, a leitura é muito enriquecedora por trazer diversos aspectos históricos relacionados a estatística. 
 
-Dale!
+Dale.
 
 
 
