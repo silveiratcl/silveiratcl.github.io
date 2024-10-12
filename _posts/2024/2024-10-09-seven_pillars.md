@@ -1,6 +1,6 @@
 ---
 title: Livros - The Seven Pillars of Statistical Wisdom
-date: 2024-06-13 12:45:00 +/-TTTT
+date: 2024-20-12 12:45:00 +/-TTTT
 categories: [BOOKS, STATS]
 tags:  [livros, books, estatítica]     # TAG names should always be lowercase
 image:
