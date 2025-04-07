@@ -11,7 +11,12 @@ image:
 
 Imagine monitorar recifes de coral manualmente, mergulhando em águas profundas ou analisando horas de vídeo subaquático. Agora, pense em automatizar esse processo com **inteligência artificial**, acelerando a detecção de espécies invasoras como o **coral-sol (Tubastraea coccinea)**. Foi exatamente isso que exploramos em nosso projeto de visão computacional, usando **YOLOv8** para identificar e contar colônias dessa espécie em imagensubaquática.  
 
-Neste post, vou compartilhar os desafios, resultados e lições aprendidas de um projeto da Disciplina Visão Computacional (INE410121 - VISÃO COMPUTACIONAL) ministrada pelo professor Aldo von Wangenheim. 
+Neste post, vou compartilhar os desafios, resultados e lições aprendidas de um projeto em gruopo da Disciplina Visão Computacional (INE410121 - VISÃO COMPUTACIONAL) ministrada pelo professor Aldo von Wangenheim. 
+Integrantes:
+Lucas Fiamoncini
+Thiago Silveira
+Marcelo Crivellaro
+Thayssa Godoi
 
 ---  
 
@@ -89,7 +94,6 @@ O modelo teve **bons resultados para coral-sol (mAP50 = 0.676)**, mas:
 Este projeto mostrou que **a visão computacional já é viável para monitoramento ambiental**, mesmo com desafios como imagens subaquáticas complexas. Ainda há espaço para melhorias, mas a automação pode **revolucionar** a gestão de espécies invasoras, tornando-a **mais rápida, barata e escalável**.  
 
 
-
 **Dale!** 🚀  
 
 ---  
@@ -97,8 +101,7 @@ Este projeto mostrou que **a visão computacional já é viável para monitorame
 ### **Referências**  
 - Creed et al. (2017). *The Sun-Coral Project: The first social-environmental initiative to manage the biological invasion of Tubastraea spp. In Brazil.* Management of Biological Invasions, 8(2), 181–195. https://doi.org/10.3391/mbi.2017.8.2.06  
 - Beijbom et al. (2015). *Towards Automated Annotation of Benthic Survey Images: Variability of Human Experts and Operational Modes of Automation.* PLOS ONE, 10(7), e0130312. https://doi.org/10.1371/journal.pone.0130312  
-- [Roboflow](https://roboflow.com) – Ferramenta para anotação e aumento de dados.  
-
+- [Roboflow](https://roboflow.com) 
 ---  
 
 
