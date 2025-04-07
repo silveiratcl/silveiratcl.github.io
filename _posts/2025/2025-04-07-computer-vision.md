@@ -56,16 +56,6 @@ Para melhorar a generalização, aplicamos **data augmentation** (rotações, aj
 | Palythoa caribaeorum  | 0.341    | 0.278     | 0.246  |  
 | Sea urchin            | 0.662    | 0.737     | 0.733  |  
 
-## Tables
-
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
-
-
-
 O modelo teve **bons resultados para coral-sol (mAP50 = 0.676)**, mas:  
 ✅ **Detectou bem colônias isoladas e maiores**;  
 ❌ **Teve falsos positivos** (confundiu fundo ou outras espécies com coral-sol);  
