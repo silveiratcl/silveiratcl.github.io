@@ -95,8 +95,8 @@ Este projeto mostrou que **a visão computacional já é viável para monitorame
 ---  
 
 ### **Referências**  
-- Creed et al. (2017). *The Sun-Coral Project*. Management of Biological Invasions.  
-- Beijbom et al. (2015). *Automated Annotation of Benthic Survey Images*. PLOS ONE.  
+- Creed et al. (2017). *The Sun-Coral Project: The first social-environmental initiative to manage the biological invasion of Tubastraea spp. In Brazil.* Management of Biological Invasions, 8(2), 181–195. https://doi.org/10.3391/mbi.2017.8.2.06  
+- Beijbom et al. (2015). *Towards Automated Annotation of Benthic Survey Images: Variability of Human Experts and Operational Modes of Automation.* PLOS ONE, 10(7), e0130312. https://doi.org/10.1371/journal.pone.0130312  
 - [Roboflow](https://roboflow.com) – Ferramenta para anotação e aumento de dados.  
 
 ---  
